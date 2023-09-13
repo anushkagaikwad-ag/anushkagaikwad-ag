@@ -4,13 +4,11 @@
 
 ## **ABOUT ME**
 
-- 🔭 I’m currently working as **MDM Developer** at **Capgemini.**
+- 🔭 I’m working as **MDM Developer** at **Capgemini.**
 
 - 📈 I’m currently on a learning journey of Data Analyst
 
 - 🌱 I’m working on **Excel, PowerBi, SQL, Python.**
-
-- 💻 Check my Projects and other Repos [HERE.]()
 
 - 👨‍💻 Completed **Microsoft Power Bi Data Analyst Associate certificate.** 
 
