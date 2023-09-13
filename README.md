@@ -1,14 +1,14 @@
  # Hey! Nice to see you.
 
-<h2 align="center">Hi, Anushka Gaikwad </h2>
+<h2 align="center"> I'm Anushka Gaikwad </h2>
 
 ## **ABOUT ME**
 
 - 🔭 I’m currently working as **MDM Developer** at **Capgemini.**
 
-- 🌱 I’m currently on learning journey of Data Analyst
+- 📈 I’m currently on a learning journey of Data Analyst
 
-- 🌱 I’m currently working on **Excel, PowerBi, SQL, Python.**
+- 🌱 I’m working on **Excel, PowerBi, SQL, Python.**
 
 - 💻 Check my Projects and other Repos [HERE.]()
 
