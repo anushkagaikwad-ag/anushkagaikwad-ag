@@ -13,7 +13,9 @@
 - 👨‍💻 Completed **Microsoft Power Bi Data Analyst Associate certificate.** 
 
 ## **LANGUAGES AND TOOLS**
-
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
+                    </p>
+                    </a>
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> </a>
     <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"      /> </a> 
@@ -24,9 +26,7 @@
     <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> </a> 
     <a href="https://powerbi.microsoft.com/en-au/" target="_blank"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
 <p align="left">
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-                    </p>
-                    </a>
+
 </p>
 <br/>
 
