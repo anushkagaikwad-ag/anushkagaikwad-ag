@@ -8,7 +8,7 @@
 
 - 📈 I’m currently on a learning journey of Data Analyst
 
-- 🌱 I’m working on **Excel, PowerBi, SQL, Python.**
+- 🌱 I’m working on **Statistic, Excel, PowerBi, SQL, Python.**
 
 - 👨‍💻 Completed **Microsoft Power Bi Data Analyst Associate certificate.** 
 
